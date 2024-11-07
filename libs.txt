@@ -1,0 +1,5 @@
+pip install pymongo
+pip install Pillow
+pip install cryptography
+pip install pyotp
+pip install customtkinter
